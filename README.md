@@ -1,2 +1,4 @@
-# bengkel-booking
-Bootcamp
+# Booking bengkel
+Bootcamp Arutala
+
+Bahasa pemrograman java dengan menguji logical thinking
